@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AlanTorp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 你好，这里是一名普通的大三软工人AlanTorp
 
-<!---
-AlanTorp/AlanTorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  爱好是折腾云服务器和电脑硬件（还有打游戏
+
+- 近期在学习SSM框架，老师讲的好快，我好痛苦
+
+- 如果你对我的这些代码感兴趣可以查看我的博客去寻找思路教程
+
+- [暮冬 – AlanTorp的万事屋](https://www.alantorp.online/)
+
